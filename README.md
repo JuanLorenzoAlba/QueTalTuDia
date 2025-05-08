@@ -22,11 +22,11 @@
 ## 📂 Estructura de carpetas
 
 ```
-quetaltudia/
+QueTalTuDia/
 ├── app/
 │   ├── src/
 │   │   ├── main/
-│   │   │   ├── java/com/unaj/prueba/
+│   │   │   ├── java/com/unaj/quetaltudia/
 │   │   │   │   ├── MainActivity.kt
 │   │   │   │   └── ResultadoActivity.kt
 │   │   │   ├── res/
