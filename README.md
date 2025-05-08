@@ -13,7 +13,7 @@
 
 1. Cloná este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/quetaltudia.git
+   https://github.com/JuanLorenzoAlba/QueTalTuDia.git
    ```
 2. Abrilo con **Android Studio**
 3. Ejecutalo en un emulador o dispositivo físico con Android 5.0+
