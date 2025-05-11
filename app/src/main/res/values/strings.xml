@@ -3,13 +3,13 @@
     <string name="action_settings">Settings</string>
 
     <!-- Título -->
-    <string name="pregunta">¿Qué tal fue tu día?</string>
+    <string name="pregunta">🌞 ¿Qué tal fue tu día?</string>
 
     <!-- Respuestas -->
-    <string name="respuesta1">Excelente</string>
-    <string name="respuesta2">Bueno</string>
-    <string name="respuesta3">Malo</string>
-    <string name="respuesta4">Pésimo</string>
+    <string name="respuesta1">😄 Excelente</string>
+    <string name="respuesta2">🙂 Bueno</string>
+    <string name="respuesta3">😕 Malo</string>
+    <string name="respuesta4">😩 Pésimo</string>
 
     <!-- Botón -->
     <string name="btn_txt">Enviar</string>
